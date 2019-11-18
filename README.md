@@ -1,6 +1,6 @@
 just-join-it
 ============
-React app example.
+React example app.
 
 ### Running
 
